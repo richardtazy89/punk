@@ -1,0 +1,816 @@
+﻿2025-08-21 09:47:00.655 - ShareX starting.
+2025-08-21 09:47:00.719 - Version: 18.0.1
+2025-08-21 09:47:00.728 - Build: Steam
+2025-08-21 09:47:00.729 - Command line: "D:\New folder\steamapps\common\ShareX\ShareX\ShareX.dll" -SteamConfig
+2025-08-21 09:47:00.729 - Personal path: C:\Users\onest\OneDrive\Documents\ShareX
+2025-08-21 09:47:00.730 - Operating system: Windows 10 Home (64-bit)
+2025-08-21 09:47:00.735 - .NET version: 9.0.8
+2025-08-21 09:47:00.735 - Running as elevated process: False
+2025-08-21 09:47:02.088 - Flags: SteamFirstTimeConfig
+2025-08-21 09:47:03.476 - ApplicationConfig file does not exist: C:\Users\onest\OneDrive\Documents\ShareX\ApplicationConfig.json
+2025-08-21 09:47:03.476 - ApplicationConfig file does not exist: C:\Users\onest\OneDrive\Documents\ShareX\ApplicationConfig.json.temp
+2025-08-21 09:47:03.476 - ApplicationConfig file does not exist: C:\Users\onest\OneDrive\Documents\ShareX\Backup\ApplicationConfig.json
+2025-08-21 09:47:03.476 - Loading new ApplicationConfig instance.
+2025-08-21 09:47:11.204 - UploadersConfig file does not exist: C:\Users\onest\OneDrive\Documents\ShareX\UploadersConfig.json
+2025-08-21 09:47:11.205 - UploadersConfig file does not exist: C:\Users\onest\OneDrive\Documents\ShareX\UploadersConfig.json.temp
+2025-08-21 09:47:11.205 - UploadersConfig file does not exist: C:\Users\onest\OneDrive\Documents\ShareX\Backup\UploadersConfig.json
+2025-08-21 09:47:11.205 - Loading new UploadersConfig instance.
+2025-08-21 09:47:11.208 - Language changed to: English (Canada)
+2025-08-21 09:47:11.208 - MainForm init started.
+2025-08-21 09:47:11.213 - HotkeysConfig file does not exist: C:\Users\onest\OneDrive\Documents\ShareX\HotkeysConfig.json
+2025-08-21 09:47:11.213 - HotkeysConfig file does not exist: C:\Users\onest\OneDrive\Documents\ShareX\HotkeysConfig.json.temp
+2025-08-21 09:47:11.213 - HotkeysConfig file does not exist: C:\Users\onest\OneDrive\Documents\ShareX\Backup\HotkeysConfig.json
+2025-08-21 09:47:11.213 - Loading new HotkeysConfig instance.
+2025-08-21 09:47:13.137 - MainForm init finished.
+2025-08-21 09:47:13.997 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2025-08-21 09:47:13.998 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2025-08-21 09:47:13.998 - Unable to register hotkey: Alt + Print Screen
+2025-08-21 09:47:13.998 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2025-08-21 09:47:13.998 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2025-08-21 09:47:13.998 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2025-08-21 09:48:47.199 - HotkeyManager started.
+2025-08-21 09:48:47.206 - WatchFolderManager started.
+2025-08-21 09:48:47.248 - Startup time: 107485 ms
+2025-08-21 09:48:47.251 - CommandLine: -SteamConfig
+2025-08-21 11:27:25.872 - ApplicationConfig save started: C:\Users\onest\OneDrive\Documents\ShareX\ApplicationConfig.json
+2025-08-21 11:27:25.883 - UploadersConfig save started: C:\Users\onest\OneDrive\Documents\ShareX\UploadersConfig.json
+2025-08-21 11:27:25.891 - HotkeysConfig save started: C:\Users\onest\OneDrive\Documents\ShareX\HotkeysConfig.json
+2025-08-21 11:27:27.004 - HotkeysConfig save successful: C:\Users\onest\OneDrive\Documents\ShareX\HotkeysConfig.json
+2025-08-21 11:27:27.126 - UploadersConfig save successful: C:\Users\onest\OneDrive\Documents\ShareX\UploadersConfig.json
+2025-08-21 11:27:27.354 - ApplicationConfig save successful: C:\Users\onest\OneDrive\Documents\ShareX\ApplicationConfig.json
+2025-08-21 12:03:26.444 - Arguments received: ""
+2025-08-21 12:22:53.440 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:53.643 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:53.715 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:53.792 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:53.903 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.153 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.197 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.288 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.331 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.370 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.408 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.451 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.489 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.603 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.721 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.812 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.898 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:54.993 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:55.099 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:55.205 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:55.308 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:55.435 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:55.550 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:55.668 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:55.821 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:56.044 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:56.176 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:56.335 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:56.479 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:56.654 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:56.833 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:57.036 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:57.255 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:57.422 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:57.634 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:57.890 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:58.119 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:58.544 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:58.930 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:59.218 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:59.489 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:59.727 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:22:59.943 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:00.223 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:00.442 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:00.679 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:00.974 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:01.285 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:01.552 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:01.794 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:02.117 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:02.363 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:02.641 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:02.902 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:03.232 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:03.516 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:03.794 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:04.089 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:04.498 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:04.816 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:05.252 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:05.643 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:05.970 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:06.287 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:06.613 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:07.041 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:07.476 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:07.837 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:08.230 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:08.578 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:08.923 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:09.353 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:09.717 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:10.151 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:10.605 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:11.014 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:11.418 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:11.914 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:12.332 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:12.838 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:13.280 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:13.701 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:14.188 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:14.619 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:15.145 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:15.698 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:16.227 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:16.917 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:17.660 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:18.238 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:18.781 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:19.568 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:20.363 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:21.061 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:21.770 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:22.306 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:22.884 - Task in queue. Job: FileUpload, Type: File, Host: Dropbox
+2025-08-21 12:23:23.510 - Task status: Preparing
+2025-08-21 12:23:23.657 - Task status: Preparing
+2025-08-21 12:23:23.668 - Task status: Preparing
+2025-08-21 12:23:23.678 - Task status: Working
+2025-08-21 12:23:23.688 - Task status: Working
+2025-08-21 12:23:23.710 - Task completed. File name: 1054830.json, Duration: 29912 ms
+2025-08-21 12:23:23.868 - Task completed. File name: 1042420.json, Duration: 30159 ms
+2025-08-21 12:23:23.887 - Task completed. File name: 1007.json, Duration: 30247 ms
+2025-08-21 12:23:23.908 - Task status: Working
+2025-08-21 12:23:23.925 - Task status: Working
+2025-08-21 12:23:23.935 - Task status: Working
+2025-08-21 12:23:24.026 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:24.026 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:24.026 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:24.026 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:24.026 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:24.027 - Upload failed. Retrying upload.
+2025-08-21 12:23:24.027 - Upload failed. Retrying upload.
+2025-08-21 12:23:24.027 - Upload failed. Retrying upload.
+2025-08-21 12:23:24.027 - Upload failed. Retrying upload.
+2025-08-21 12:23:24.027 - Upload failed. Retrying upload.
+2025-08-21 12:23:24.083 - Upload started. File name: 1070910.json, File path: D:\New folder\userdata\834278397\config\librarycache\1070910.json
+2025-08-21 12:23:24.085 - Upload started. File name: 111710.json, File path: D:\New folder\userdata\834278397\config\librarycache\111710.json
+2025-08-21 12:23:24.088 - Upload started. File name: 1070560.json, File path: D:\New folder\userdata\834278397\config\librarycache\1070560.json
+2025-08-21 12:23:24.092 - Upload started. File name: 1113280.json, File path: D:\New folder\userdata\834278397\config\librarycache\1113280.json
+2025-08-21 12:23:24.095 - Upload started. File name: 1161040.json, File path: D:\New folder\userdata\834278397\config\librarycache\1161040.json
+2025-08-21 12:23:25.053 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:25.053 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:25.053 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:25.053 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:25.053 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:25.794 - Task failed. File name: 111710.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:25.827 - Task failed. File name: 1070910.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:25.846 - Task failed. File name: 1070560.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:25.868 - Task failed. File name: 1113280.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:25.891 - Task failed. File name: 1161040.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:25.910 - Task status: Working
+2025-08-21 12:23:25.934 - Task status: Working
+2025-08-21 12:23:25.948 - Task status: Working
+2025-08-21 12:23:25.962 - Task status: Working
+2025-08-21 12:23:25.975 - Task status: Working
+2025-08-21 12:23:26.015 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:26.015 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:26.015 - Upload failed. Retrying upload.
+2025-08-21 12:23:26.015 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:26.015 - Upload failed. Retrying upload.
+2025-08-21 12:23:26.015 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:26.015 - Upload failed. Retrying upload.
+2025-08-21 12:23:26.015 - Upload failed. Retrying upload.
+2025-08-21 12:23:26.015 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:26.015 - Upload started. File name: 1245040.json, File path: D:\New folder\userdata\834278397\config\librarycache\1245040.json
+2025-08-21 12:23:26.015 - Upload failed. Retrying upload.
+2025-08-21 12:23:26.020 - Upload started. File name: 1273.json, File path: D:\New folder\userdata\834278397\config\librarycache\1273.json
+2025-08-21 12:23:26.025 - Upload started. File name: 13180.json, File path: D:\New folder\userdata\834278397\config\librarycache\13180.json
+2025-08-21 12:23:26.032 - Upload started. File name: 1391110.json, File path: D:\New folder\userdata\834278397\config\librarycache\1391110.json
+2025-08-21 12:23:26.036 - Upload started. File name: 1420170.json, File path: D:\New folder\userdata\834278397\config\librarycache\1420170.json
+2025-08-21 12:23:27.015 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.015 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.015 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.015 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.015 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.027 - Task failed. File name: 1391110.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.046 - Task failed. File name: 1245040.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.062 - Task failed. File name: 1420170.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.076 - Task failed. File name: 1273.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.093 - Task failed. File name: 13180.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.107 - Task status: Working
+2025-08-21 12:23:27.118 - Task status: Working
+2025-08-21 12:23:27.129 - Task status: Working
+2025-08-21 12:23:27.139 - Task status: Working
+2025-08-21 12:23:27.148 - Task status: Working
+2025-08-21 12:23:27.159 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.159 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.159 - Upload failed. Retrying upload.
+2025-08-21 12:23:27.159 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.159 - Upload failed. Retrying upload.
+2025-08-21 12:23:27.159 - Upload failed. Retrying upload.
+2025-08-21 12:23:27.159 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.160 - Upload failed. Retrying upload.
+2025-08-21 12:23:27.160 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:27.160 - Upload started. File name: 1493710.json, File path: D:\New folder\userdata\834278397\config\librarycache\1493710.json
+2025-08-21 12:23:27.160 - Upload failed. Retrying upload.
+2025-08-21 12:23:27.162 - Upload started. File name: 1580130.json, File path: D:\New folder\userdata\834278397\config\librarycache\1580130.json
+2025-08-21 12:23:27.166 - Upload started. File name: 1628350.json, File path: D:\New folder\userdata\834278397\config\librarycache\1628350.json
+2025-08-21 12:23:27.172 - Upload started. File name: 17515.json, File path: D:\New folder\userdata\834278397\config\librarycache\17515.json
+2025-08-21 12:23:27.175 - Upload started. File name: 17535.json, File path: D:\New folder\userdata\834278397\config\librarycache\17535.json
+2025-08-21 12:23:28.160 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.160 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.160 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.160 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.160 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.171 - Task failed. File name: 1493710.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.192 - Task failed. File name: 17535.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.217 - Task failed. File name: 17515.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.240 - Task failed. File name: 1580130.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.264 - Task failed. File name: 1628350.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.279 - Task status: Working
+2025-08-21 12:23:28.293 - Task status: Working
+2025-08-21 12:23:28.309 - Task status: Working
+2025-08-21 12:23:28.322 - Task status: Working
+2025-08-21 12:23:28.334 - Task status: Working
+2025-08-21 12:23:28.349 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.349 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.349 - Upload failed. Retrying upload.
+2025-08-21 12:23:28.349 - Upload failed. Retrying upload.
+2025-08-21 12:23:28.349 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.349 - Upload failed. Retrying upload.
+2025-08-21 12:23:28.349 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.349 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:28.349 - Upload failed. Retrying upload.
+2025-08-21 12:23:28.349 - Upload started. File name: 17555.json, File path: D:\New folder\userdata\834278397\config\librarycache\17555.json
+2025-08-21 12:23:28.349 - Upload failed. Retrying upload.
+2025-08-21 12:23:28.353 - Upload started. File name: 17575.json, File path: D:\New folder\userdata\834278397\config\librarycache\17575.json
+2025-08-21 12:23:28.356 - Upload started. File name: 17585.json, File path: D:\New folder\userdata\834278397\config\librarycache\17585.json
+2025-08-21 12:23:28.363 - Upload started. File name: 1826330.json, File path: D:\New folder\userdata\834278397\config\librarycache\1826330.json
+2025-08-21 12:23:28.367 - Upload started. File name: 1874900.json, File path: D:\New folder\userdata\834278397\config\librarycache\1874900.json
+2025-08-21 12:23:29.350 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.350 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.350 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.350 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.350 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.365 - Task failed. File name: 17555.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.399 - Task failed. File name: 17575.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.433 - Task failed. File name: 1826330.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.461 - Task failed. File name: 17585.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.493 - Task failed. File name: 1874900.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.520 - Task status: Working
+2025-08-21 12:23:29.539 - Task status: Working
+2025-08-21 12:23:29.557 - Task status: Working
+2025-08-21 12:23:29.573 - Task status: Working
+2025-08-21 12:23:29.590 - Task status: Working
+2025-08-21 12:23:29.610 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.610 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.610 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.610 - Upload failed. Retrying upload.
+2025-08-21 12:23:29.610 - Upload failed. Retrying upload.
+2025-08-21 12:23:29.610 - Upload failed. Retrying upload.
+2025-08-21 12:23:29.611 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.611 - Upload failed. Retrying upload.
+2025-08-21 12:23:29.611 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:29.611 - Upload started. File name: 1887720.json, File path: D:\New folder\userdata\834278397\config\librarycache\1887720.json
+2025-08-21 12:23:29.611 - Upload failed. Retrying upload.
+2025-08-21 12:23:29.618 - Upload started. File name: 203300.json, File path: D:\New folder\userdata\834278397\config\librarycache\203300.json
+2025-08-21 12:23:29.623 - Upload started. File name: 205.json, File path: D:\New folder\userdata\834278397\config\librarycache\205.json
+2025-08-21 12:23:29.633 - Upload started. File name: 211.json, File path: D:\New folder\userdata\834278397\config\librarycache\211.json
+2025-08-21 12:23:29.640 - Upload started. File name: 212542.json, File path: D:\New folder\userdata\834278397\config\librarycache\212542.json
+2025-08-21 12:23:30.611 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.611 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.611 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.612 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.612 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.617 - Task failed. File name: 203300.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.634 - Task failed. File name: 1887720.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.647 - Task failed. File name: 205.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.664 - Task failed. File name: 212542.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.681 - Task failed. File name: 211.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.691 - Task status: Working
+2025-08-21 12:23:30.702 - Task status: Working
+2025-08-21 12:23:30.712 - Task status: Working
+2025-08-21 12:23:30.723 - Task status: Working
+2025-08-21 12:23:30.734 - Task status: Working
+2025-08-21 12:23:30.745 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.745 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.745 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.745 - Upload failed. Retrying upload.
+2025-08-21 12:23:30.745 - Upload failed. Retrying upload.
+2025-08-21 12:23:30.745 - Upload failed. Retrying upload.
+2025-08-21 12:23:30.745 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.745 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:30.745 - Upload failed. Retrying upload.
+2025-08-21 12:23:30.745 - Upload started. File name: 2145.json, File path: D:\New folder\userdata\834278397\config\librarycache\2145.json
+2025-08-21 12:23:30.745 - Upload failed. Retrying upload.
+2025-08-21 12:23:30.748 - Upload started. File name: 215.json, File path: D:\New folder\userdata\834278397\config\librarycache\215.json
+2025-08-21 12:23:30.750 - Upload started. File name: 216840.json, File path: D:\New folder\userdata\834278397\config\librarycache\216840.json
+2025-08-21 12:23:30.755 - Upload started. File name: 218.json, File path: D:\New folder\userdata\834278397\config\librarycache\218.json
+2025-08-21 12:23:30.758 - Upload started. File name: 2180100.json, File path: D:\New folder\userdata\834278397\config\librarycache\2180100.json
+2025-08-21 12:23:31.746 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.746 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.746 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.746 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.746 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.753 - Task failed. File name: 218.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.769 - Task failed. File name: 2180100.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.783 - Task failed. File name: 2145.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.799 - Task failed. File name: 215.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.816 - Task failed. File name: 216840.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.826 - Task status: Working
+2025-08-21 12:23:31.837 - Task status: Working
+2025-08-21 12:23:31.847 - Task status: Working
+2025-08-21 12:23:31.857 - Task status: Working
+2025-08-21 12:23:31.867 - Task status: Working
+2025-08-21 12:23:31.877 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.877 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.877 - Upload failed. Retrying upload.
+2025-08-21 12:23:31.877 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.878 - Upload failed. Retrying upload.
+2025-08-21 12:23:31.878 - Upload failed. Retrying upload.
+2025-08-21 12:23:31.878 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.878 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:31.878 - Upload started. File name: 220.json, File path: D:\New folder\userdata\834278397\config\librarycache\220.json
+2025-08-21 12:23:31.878 - Upload failed. Retrying upload.
+2025-08-21 12:23:31.878 - Upload failed. Retrying upload.
+2025-08-21 12:23:31.881 - Upload started. File name: 220070.json, File path: D:\New folder\userdata\834278397\config\librarycache\220070.json
+2025-08-21 12:23:31.883 - Upload started. File name: 2225447929.json, File path: D:\New folder\userdata\834278397\config\librarycache\2225447929.json
+2025-08-21 12:23:31.888 - Upload started. File name: 222840.json, File path: D:\New folder\userdata\834278397\config\librarycache\222840.json
+2025-08-21 12:23:31.893 - Upload started. File name: 2230260.json, File path: D:\New folder\userdata\834278397\config\librarycache\2230260.json
+2025-08-21 12:23:32.878 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:32.878 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:32.878 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:32.878 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:32.878 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:32.921 - Task failed. File name: 222840.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:32.939 - Task failed. File name: 220070.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:32.955 - Task failed. File name: 2230260.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:32.971 - Task failed. File name: 220.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:32.988 - Task failed. File name: 2225447929.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:33.003 - Task status: Working
+2025-08-21 12:23:33.014 - Task status: Working
+2025-08-21 12:23:33.025 - Task status: Working
+2025-08-21 12:23:33.035 - Task status: Working
+2025-08-21 12:23:33.046 - Task status: Working
+2025-08-21 12:23:33.059 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:33.059 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:33.059 - Upload failed. Retrying upload.
+2025-08-21 12:23:33.059 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:33.059 - Upload failed. Retrying upload.
+2025-08-21 12:23:33.059 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:33.059 - Upload failed. Retrying upload.
+2025-08-21 12:23:33.059 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:33.059 - Upload failed. Retrying upload.
+2025-08-21 12:23:33.059 - Upload started. File name: 223160.json, File path: D:\New folder\userdata\834278397\config\librarycache\223160.json
+2025-08-21 12:23:33.059 - Upload failed. Retrying upload.
+2025-08-21 12:23:33.065 - Upload started. File name: 223350.json, File path: D:\New folder\userdata\834278397\config\librarycache\223350.json
+2025-08-21 12:23:33.076 - Upload started. File name: 224620.json, File path: D:\New folder\userdata\834278397\config\librarycache\224620.json
+2025-08-21 12:23:33.082 - Upload started. File name: 228980.json, File path: D:\New folder\userdata\834278397\config\librarycache\228980.json
+2025-08-21 12:23:33.088 - Upload started. File name: 230030.json, File path: D:\New folder\userdata\834278397\config\librarycache\230030.json
+2025-08-21 12:23:34.059 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.059 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.059 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.059 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.059 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.070 - Task failed. File name: 228980.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.089 - Task failed. File name: 223160.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.111 - Task failed. File name: 223350.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.129 - Task failed. File name: 224620.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.147 - Task failed. File name: 230030.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.160 - Task status: Working
+2025-08-21 12:23:34.172 - Task status: Working
+2025-08-21 12:23:34.182 - Task status: Working
+2025-08-21 12:23:34.193 - Task status: Working
+2025-08-21 12:23:34.204 - Task status: Working
+2025-08-21 12:23:34.215 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.215 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.215 - Upload failed. Retrying upload.
+2025-08-21 12:23:34.215 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.215 - Upload failed. Retrying upload.
+2025-08-21 12:23:34.215 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.215 - Upload failed. Retrying upload.
+2025-08-21 12:23:34.215 - Upload failed. Retrying upload.
+2025-08-21 12:23:34.215 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:34.215 - Upload started. File name: 231390.json, File path: D:\New folder\userdata\834278397\config\librarycache\231390.json
+2025-08-21 12:23:34.215 - Upload failed. Retrying upload.
+2025-08-21 12:23:34.218 - Upload started. File name: 233780.json, File path: D:\New folder\userdata\834278397\config\librarycache\233780.json
+2025-08-21 12:23:34.222 - Upload started. File name: 2348590.json, File path: D:\New folder\userdata\834278397\config\librarycache\2348590.json
+2025-08-21 12:23:34.228 - Upload started. File name: 237410.json, File path: D:\New folder\userdata\834278397\config\librarycache\237410.json
+2025-08-21 12:23:34.231 - Upload started. File name: 243730.json, File path: D:\New folder\userdata\834278397\config\librarycache\243730.json
+2025-08-21 12:23:35.216 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.216 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.216 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.216 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.216 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.231 - Task failed. File name: 231390.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.261 - Task failed. File name: 237410.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.289 - Task failed. File name: 233780.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.317 - Task failed. File name: 243730.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.347 - Task failed. File name: 2348590.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.366 - Task status: Working
+2025-08-21 12:23:35.382 - Task status: Working
+2025-08-21 12:23:35.398 - Task status: Working
+2025-08-21 12:23:35.413 - Task status: Working
+2025-08-21 12:23:35.426 - Task status: Working
+2025-08-21 12:23:35.442 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.442 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.442 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.442 - Upload failed. Retrying upload.
+2025-08-21 12:23:35.442 - Upload failed. Retrying upload.
+2025-08-21 12:23:35.443 - Upload failed. Retrying upload.
+2025-08-21 12:23:35.443 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.443 - Upload failed. Retrying upload.
+2025-08-21 12:23:35.443 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:35.443 - Upload started. File name: 244310.json, File path: D:\New folder\userdata\834278397\config\librarycache\244310.json
+2025-08-21 12:23:35.443 - Upload failed. Retrying upload.
+2025-08-21 12:23:35.447 - Upload started. File name: 250820.json, File path: D:\New folder\userdata\834278397\config\librarycache\250820.json
+2025-08-21 12:23:35.453 - Upload started. File name: 255470.json, File path: D:\New folder\userdata\834278397\config\librarycache\255470.json
+2025-08-21 12:23:35.461 - Upload started. File name: 258680.json, File path: D:\New folder\userdata\834278397\config\librarycache\258680.json
+2025-08-21 12:23:35.467 - Upload started. File name: 261020.json, File path: D:\New folder\userdata\834278397\config\librarycache\261020.json
+2025-08-21 12:23:36.443 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.443 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.443 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.443 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.443 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.452 - Task failed. File name: 250820.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.469 - Task failed. File name: 261020.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.485 - Task failed. File name: 255470.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.502 - Task failed. File name: 244310.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.522 - Task failed. File name: 258680.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.533 - Task status: Working
+2025-08-21 12:23:36.542 - Task status: Working
+2025-08-21 12:23:36.553 - Task status: Working
+2025-08-21 12:23:36.562 - Task status: Working
+2025-08-21 12:23:36.572 - Task status: Working
+2025-08-21 12:23:36.583 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.583 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.583 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.583 - Upload failed. Retrying upload.
+2025-08-21 12:23:36.583 - Upload failed. Retrying upload.
+2025-08-21 12:23:36.583 - Upload failed. Retrying upload.
+2025-08-21 12:23:36.583 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.583 - Upload failed. Retrying upload.
+2025-08-21 12:23:36.583 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:36.583 - Upload started. File name: 261140.json, File path: D:\New folder\userdata\834278397\config\librarycache\261140.json
+2025-08-21 12:23:36.583 - Upload failed. Retrying upload.
+2025-08-21 12:23:36.585 - Upload started. File name: 265360.json, File path: D:\New folder\userdata\834278397\config\librarycache\265360.json
+2025-08-21 12:23:36.587 - Upload started. File name: 2711625301.json, File path: D:\New folder\userdata\834278397\config\librarycache\2711625301.json
+2025-08-21 12:23:36.591 - Upload started. File name: 2759355357.json, File path: D:\New folder\userdata\834278397\config\librarycache\2759355357.json
+2025-08-21 12:23:36.593 - Upload started. File name: 2805730.json, File path: D:\New folder\userdata\834278397\config\librarycache\2805730.json
+2025-08-21 12:23:37.583 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.583 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.583 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.583 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.583 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.592 - Task failed. File name: 265360.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.609 - Task failed. File name: 261140.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.627 - Task failed. File name: 2759355357.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.641 - Task failed. File name: 2805730.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.658 - Task failed. File name: 2711625301.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.669 - Task status: Working
+2025-08-21 12:23:37.679 - Task status: Working
+2025-08-21 12:23:37.690 - Task status: Working
+2025-08-21 12:23:37.700 - Task status: Working
+2025-08-21 12:23:37.709 - Task status: Working
+2025-08-21 12:23:37.720 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.720 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.720 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.720 - Upload failed. Retrying upload.
+2025-08-21 12:23:37.720 - Upload failed. Retrying upload.
+2025-08-21 12:23:37.720 - Upload failed. Retrying upload.
+2025-08-21 12:23:37.720 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.720 - Upload failed. Retrying upload.
+2025-08-21 12:23:37.720 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:37.720 - Upload started. File name: 294420.json, File path: D:\New folder\userdata\834278397\config\librarycache\294420.json
+2025-08-21 12:23:37.720 - Upload failed. Retrying upload.
+2025-08-21 12:23:37.722 - Upload started. File name: 302530.json, File path: D:\New folder\userdata\834278397\config\librarycache\302530.json
+2025-08-21 12:23:37.724 - Upload started. File name: 302550.json, File path: D:\New folder\userdata\834278397\config\librarycache\302550.json
+2025-08-21 12:23:37.728 - Upload started. File name: 3086180.json, File path: D:\New folder\userdata\834278397\config\librarycache\3086180.json
+2025-08-21 12:23:37.731 - Upload started. File name: 312070.json, File path: D:\New folder\userdata\834278397\config\librarycache\312070.json
+2025-08-21 12:23:38.720 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.720 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.720 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.720 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.720 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.728 - Task failed. File name: 302550.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.743 - Task failed. File name: 302530.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.758 - Task failed. File name: 294420.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.771 - Task failed. File name: 312070.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.786 - Task failed. File name: 3086180.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.798 - Task status: Working
+2025-08-21 12:23:38.810 - Task status: Working
+2025-08-21 12:23:38.821 - Task status: Working
+2025-08-21 12:23:38.834 - Task status: Working
+2025-08-21 12:23:38.846 - Task status: Working
+2025-08-21 12:23:38.855 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.855 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.855 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.856 - Upload failed. Retrying upload.
+2025-08-21 12:23:38.856 - Upload failed. Retrying upload.
+2025-08-21 12:23:38.856 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.856 - Upload failed. Retrying upload.
+2025-08-21 12:23:38.856 - Upload failed. Retrying upload.
+2025-08-21 12:23:38.856 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:38.856 - Upload started. File name: 3171207326.json, File path: D:\New folder\userdata\834278397\config\librarycache\3171207326.json
+2025-08-21 12:23:38.856 - Upload failed. Retrying upload.
+2025-08-21 12:23:38.859 - Upload started. File name: 3309720.json, File path: D:\New folder\userdata\834278397\config\librarycache\3309720.json
+2025-08-21 12:23:38.863 - Upload started. File name: 332850.json, File path: D:\New folder\userdata\834278397\config\librarycache\332850.json
+2025-08-21 12:23:38.867 - Upload started. File name: 334540.json, File path: D:\New folder\userdata\834278397\config\librarycache\334540.json
+2025-08-21 12:23:38.870 - Upload started. File name: 34120.json, File path: D:\New folder\userdata\834278397\config\librarycache\34120.json
+2025-08-21 12:23:39.856 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.856 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.856 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.856 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.856 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.865 - Task failed. File name: 334540.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.879 - Task failed. File name: 3309720.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.891 - Task failed. File name: 332850.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.906 - Task failed. File name: 3171207326.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.919 - Task failed. File name: 34120.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.929 - Task status: Working
+2025-08-21 12:23:39.940 - Task status: Working
+2025-08-21 12:23:39.948 - Task status: Working
+2025-08-21 12:23:39.957 - Task status: Working
+2025-08-21 12:23:39.965 - Task status: Working
+2025-08-21 12:23:39.974 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.974 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.974 - Upload failed. Retrying upload.
+2025-08-21 12:23:39.974 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.974 - Upload failed. Retrying upload.
+2025-08-21 12:23:39.974 - Upload failed. Retrying upload.
+2025-08-21 12:23:39.974 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.974 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:39.974 - Upload failed. Retrying upload.
+2025-08-21 12:23:39.974 - Upload started. File name: 3658110.json, File path: D:\New folder\userdata\834278397\config\librarycache\3658110.json
+2025-08-21 12:23:39.974 - Upload failed. Retrying upload.
+2025-08-21 12:23:39.977 - Upload started. File name: 366490.json, File path: D:\New folder\userdata\834278397\config\librarycache\366490.json
+2025-08-21 12:23:39.979 - Upload started. File name: 3810140.json, File path: D:\New folder\userdata\834278397\config\librarycache\3810140.json
+2025-08-21 12:23:39.984 - Upload started. File name: 3865879605.json, File path: D:\New folder\userdata\834278397\config\librarycache\3865879605.json
+2025-08-21 12:23:39.987 - Upload started. File name: 3972298171.json, File path: D:\New folder\userdata\834278397\config\librarycache\3972298171.json
+2025-08-21 12:23:40.974 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:40.974 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:40.974 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:40.975 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:40.975 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:40.981 - Task failed. File name: 3658110.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:40.997 - Task failed. File name: 366490.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:41.010 - Task failed. File name: 3810140.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:41.024 - Task failed. File name: 3865879605.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:41.040 - Task failed. File name: 3972298171.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:41.049 - Task status: Working
+2025-08-21 12:23:41.058 - Task status: Working
+2025-08-21 12:23:41.067 - Task status: Working
+2025-08-21 12:23:41.074 - Task status: Working
+2025-08-21 12:23:41.082 - Task status: Working
+2025-08-21 12:23:41.091 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:41.091 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:41.091 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:41.091 - Upload failed. Retrying upload.
+2025-08-21 12:23:41.091 - Upload failed. Retrying upload.
+2025-08-21 12:23:41.091 - Upload failed. Retrying upload.
+2025-08-21 12:23:41.091 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:41.091 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:41.091 - Upload failed. Retrying upload.
+2025-08-21 12:23:41.091 - Upload started. File name: 400040.json, File path: D:\New folder\userdata\834278397\config\librarycache\400040.json
+2025-08-21 12:23:41.091 - Upload failed. Retrying upload.
+2025-08-21 12:23:41.093 - Upload started. File name: 42300.json, File path: D:\New folder\userdata\834278397\config\librarycache\42300.json
+2025-08-21 12:23:41.095 - Upload started. File name: 42750.json, File path: D:\New folder\userdata\834278397\config\librarycache\42750.json
+2025-08-21 12:23:41.102 - Upload started. File name: 43210.json, File path: D:\New folder\userdata\834278397\config\librarycache\43210.json
+2025-08-21 12:23:41.104 - Upload started. File name: 443030.json, File path: D:\New folder\userdata\834278397\config\librarycache\443030.json
+2025-08-21 12:23:42.092 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.092 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.092 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.092 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.092 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.109 - Task failed. File name: 443030.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.141 - Task failed. File name: 42300.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.170 - Task failed. File name: 400040.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.195 - Task failed. File name: 42750.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.220 - Task failed. File name: 43210.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.237 - Task status: Working
+2025-08-21 12:23:42.252 - Task status: Working
+2025-08-21 12:23:42.264 - Task status: Working
+2025-08-21 12:23:42.275 - Task status: Working
+2025-08-21 12:23:42.287 - Task status: Working
+2025-08-21 12:23:42.300 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.300 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.300 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.300 - Upload failed. Retrying upload.
+2025-08-21 12:23:42.300 - Upload failed. Retrying upload.
+2025-08-21 12:23:42.300 - Upload failed. Retrying upload.
+2025-08-21 12:23:42.300 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.300 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:42.300 - Upload failed. Retrying upload.
+2025-08-21 12:23:42.300 - Upload started. File name: 4940.json, File path: D:\New folder\userdata\834278397\config\librarycache\4940.json
+2025-08-21 12:23:42.300 - Upload failed. Retrying upload.
+2025-08-21 12:23:42.303 - Upload started. File name: 55280.json, File path: D:\New folder\userdata\834278397\config\librarycache\55280.json
+2025-08-21 12:23:42.307 - Upload started. File name: 613220.json, File path: D:\New folder\userdata\834278397\config\librarycache\613220.json
+2025-08-21 12:23:42.314 - Upload started. File name: 63220.json, File path: D:\New folder\userdata\834278397\config\librarycache\63220.json
+2025-08-21 12:23:42.318 - Upload started. File name: 635.json, File path: D:\New folder\userdata\834278397\config\librarycache\635.json
+2025-08-21 12:23:43.300 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.300 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.300 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.300 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.300 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.355 - Task failed. File name: 635.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.373 - Task failed. File name: 4940.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.388 - Task failed. File name: 63220.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.401 - Task failed. File name: 613220.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.418 - Task failed. File name: 55280.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.428 - Task status: Working
+2025-08-21 12:23:43.438 - Task status: Working
+2025-08-21 12:23:43.448 - Task status: Working
+2025-08-21 12:23:43.458 - Task status: Working
+2025-08-21 12:23:43.465 - Task status: Working
+2025-08-21 12:23:43.474 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.474 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.474 - Upload failed. Retrying upload.
+2025-08-21 12:23:43.474 - Upload failed. Retrying upload.
+2025-08-21 12:23:43.474 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.474 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.474 - Upload failed. Retrying upload.
+2025-08-21 12:23:43.475 - Upload failed. Retrying upload.
+2025-08-21 12:23:43.475 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:43.475 - Upload started. File name: 640.json, File path: D:\New folder\userdata\834278397\config\librarycache\640.json
+2025-08-21 12:23:43.475 - Upload failed. Retrying upload.
+2025-08-21 12:23:43.476 - Upload started. File name: 70010.json, File path: D:\New folder\userdata\834278397\config\librarycache\70010.json
+2025-08-21 12:23:43.485 - Upload started. File name: 72310.json, File path: D:\New folder\userdata\834278397\config\librarycache\72310.json
+2025-08-21 12:23:43.487 - Upload started. File name: 72780.json, File path: D:\New folder\userdata\834278397\config\librarycache\72780.json
+2025-08-21 12:23:43.490 - Upload started. File name: 858280.json, File path: D:\New folder\userdata\834278397\config\librarycache\858280.json
+2025-08-21 12:23:44.475 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.475 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.476 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.476 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.476 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.485 - Task failed. File name: 70010.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.508 - Task failed. File name: 640.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.528 - Task failed. File name: 72780.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.547 - Task failed. File name: 858280.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.564 - Task failed. File name: 72310.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.575 - Task status: Working
+2025-08-21 12:23:44.588 - Task status: Working
+2025-08-21 12:23:44.600 - Task status: Working
+2025-08-21 12:23:44.610 - Task status: Working
+2025-08-21 12:23:44.621 - Task status: Working
+2025-08-21 12:23:44.631 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.631 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.631 - Upload failed. Retrying upload.
+2025-08-21 12:23:44.631 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.631 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.631 - Upload failed. Retrying upload.
+2025-08-21 12:23:44.631 - Upload failed. Retrying upload.
+2025-08-21 12:23:44.631 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:44.631 - Upload failed. Retrying upload.
+2025-08-21 12:23:44.631 - Upload started. File name: 8710.json, File path: D:\New folder\userdata\834278397\config\librarycache\8710.json
+2025-08-21 12:23:44.631 - Upload failed. Retrying upload.
+2025-08-21 12:23:44.634 - Upload started. File name: 8730.json, File path: D:\New folder\userdata\834278397\config\librarycache\8730.json
+2025-08-21 12:23:44.637 - Upload started. File name: 8770.json, File path: D:\New folder\userdata\834278397\config\librarycache\8770.json
+2025-08-21 12:23:44.643 - Upload started. File name: 90.json, File path: D:\New folder\userdata\834278397\config\librarycache\90.json
+2025-08-21 12:23:44.647 - Upload started. File name: 91720.json, File path: D:\New folder\userdata\834278397\config\librarycache\91720.json
+2025-08-21 12:23:44.896 - ShareX.UploadersLib.FileUploaders.Dropbox - Authorization URL is opened: https://www.dropbox.com/oauth2/authorize?response_type=code&client_id=0te7j9ype9lrdfn
+2025-08-21 12:23:45.631 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.631 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.631 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.631 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.631 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.656 - Task failed. File name: 90.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.685 - Task failed. File name: 91720.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.721 - Task failed. File name: 8730.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.748 - Task failed. File name: 8710.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.774 - Task failed. File name: 8770.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.787 - Task status: Working
+2025-08-21 12:23:45.803 - Task status: Working
+2025-08-21 12:23:45.837 - Task status: Working
+2025-08-21 12:23:45.852 - Task status: Working
+2025-08-21 12:23:45.867 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.867 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.867 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.867 - Upload failed. Retrying upload.
+2025-08-21 12:23:45.867 - Upload failed. Retrying upload.
+2025-08-21 12:23:45.867 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:45.867 - Upload failed. Retrying upload.
+2025-08-21 12:23:45.867 - Upload started. File name: 920490.json, File path: D:\New folder\userdata\834278397\config\librarycache\920490.json
+2025-08-21 12:23:45.867 - Upload failed. Retrying upload.
+2025-08-21 12:23:45.871 - Upload started. File name: 944490.json, File path: D:\New folder\userdata\834278397\config\librarycache\944490.json
+2025-08-21 12:23:45.874 - Upload started. File name: 961940.json, File path: D:\New folder\userdata\834278397\config\librarycache\961940.json
+2025-08-21 12:23:45.882 - Upload started. File name: 96810.json, File path: D:\New folder\userdata\834278397\config\librarycache\96810.json
+2025-08-21 12:23:46.867 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:46.867 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:46.867 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:46.867 - Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:46.878 - Task failed. File name: 920490.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:46.895 - Task failed. File name: 944490.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:46.908 - Task failed. File name: 961940.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:46.922 - Task failed. File name: 96810.json, Errors:
+Dropbox configuration is invalid or missing. Please check "Destination settings" window to configure it.
+2025-08-21 12:23:46.942 - ShareX.UploadersLib.FileUploaders.Dropbox - Authorization URL is opened: https://www.dropbox.com/oauth2/authorize?response_type=code&client_id=0te7j9ype9lrdfn
+2025-08-21 12:24:18.801 - URL opened: https://www.dropbox.com/oauth2/authorize?response_type=code&client_id=0te7j9ype9lrdfn
+2025-08-21 12:24:29.343 - URL opened: https://www.dropbox.com/oauth2/authorize?response_type=code&client_id=0te7j9ype9lrdfn
+2025-08-21 12:24:29.345 - ApplicationConfig save started: C:\Users\onest\OneDrive\Documents\ShareX\ApplicationConfig.json
+2025-08-21 12:24:30.023 - ApplicationConfig save successful: C:\Users\onest\OneDrive\Documents\ShareX\ApplicationConfig.json
+2025-08-21 12:25:01.006 - ApplicationConfig save started: C:\Users\onest\OneDrive\Documents\ShareX\ApplicationConfig.json
+2025-08-21 12:25:01.006 - UploadersConfig save started: C:\Users\onest\OneDrive\Documents\ShareX\UploadersConfig.json
+2025-08-21 12:25:01.006 - HotkeysConfig save started: C:\Users\onest\OneDrive\Documents\ShareX\HotkeysConfig.json
+2025-08-21 12:25:01.055 - HotkeysConfig save successful: C:\Users\onest\OneDrive\Documents\ShareX\HotkeysConfig.json
+2025-08-21 12:25:01.098 - UploadersConfig save successful: C:\Users\onest\OneDrive\Documents\ShareX\UploadersConfig.json
+2025-08-21 12:25:01.228 - ApplicationConfig save successful: C:\Users\onest\OneDrive\Documents\ShareX\ApplicationConfig.json
+2025-08-21 12:25:03.180 - UploadersConfig save started: C:\Users\onest\OneDrive\Documents\ShareX\UploadersConfig.json
+2025-08-21 12:25:03.495 - UploadersConfig save successful: C:\Users\onest\OneDrive\Documents\ShareX\UploadersConfig.json
